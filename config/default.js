@@ -1,7 +1,7 @@
 /* jshint node:true */
 
 module.exports = {
-  port: 80,
+  port: 3000,
   token: 'test-refresh-token',
   couch: {
     host: 'localhost',
